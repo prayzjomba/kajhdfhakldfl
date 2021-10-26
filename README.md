@@ -19,7 +19,7 @@
   * ##### Arch users use:
 
     * `sudo pacman -S install xclip mpv youtube-dl`
-    * ##### `pip install ywatch`
+    * ##### ``pip install ywatch``
 
 
 
