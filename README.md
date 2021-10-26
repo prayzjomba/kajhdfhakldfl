@@ -23,6 +23,12 @@
 
 ### Screenshots
 ![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/1.png)
+![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/2.png)
+![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/3.png)
+![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/4.png)
+![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/5.png)
+![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/6.png)
+![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/7.png)
 
 
 
