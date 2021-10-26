@@ -28,7 +28,7 @@
 
 ## Usage
 
-![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/usage.mp4)
+![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/usage.webp)
 ## `>> yw -h`
 **The output/video files will be on ~/Videos/WATCHED**
 
