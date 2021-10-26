@@ -21,8 +21,8 @@
     * **`sudo pacman -S xclip mpv youtube-dl`**
     * **`pip install ywatch`**
  
-  * #### Other users:
-    * **`install xclip, mpv and youtube-dl`**
+  * ##### Other users:
+    * install **xclip**, **mpv** and **youtube-dl** with your package manager 
     * **`pip install ywatch`**
 
 
