@@ -10,6 +10,8 @@
   * **`makepkg -si`**
 
 * **install using pip**
+  + check if _**$HOME/.local/bin**_ is in *PATH* by running **`echo $PATH`**
+  + if not add this line to your **bashrc** **`export PATH=$HOME/.local/bin:$PATH`**
 
   * ##### ubuntu/debian users:
 
