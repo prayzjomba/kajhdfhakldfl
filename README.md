@@ -5,9 +5,9 @@
 ### Instalation
 
 * **install using makepkg**
-  * `git clone https://github.com/prayzjomba/ywatch.git`
-  * `cd ywatch`
-  * `makepkg -si`
+  * **`git clone https://github.com/prayzjomba/ywatch.git`**
+  * **`cd ywatch`**
+  * **`makepkg -si`**
 
 * **install using pip**
 
@@ -18,7 +18,7 @@
 
   * ##### Arch users use:
 
-    * **`sudo pacman -S install xclip mpv youtube-dl`**
+    * **`sudo pacman -S xclip mpv youtube-dl`**
     * **`pip install ywatch`**
 
 
