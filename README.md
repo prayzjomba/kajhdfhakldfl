@@ -6,6 +6,7 @@
 
 * **install using makepkg**
   * `git clone https://github.com/prayzjomba/ywatch.git`
+  * `cd ywatch`
   * `makepkg -si`
 
 * **install using pip**
