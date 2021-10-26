@@ -13,13 +13,13 @@
 
   * ##### ubuntu/debian users use:
 
-    * `sudo apt install xclip mpv youtube-dl`
-    * `pip install ywatch`
+    * **`sudo apt install xclip mpv youtube-dl`**
+    * **`pip install ywatch`**
 
   * ##### Arch users use:
 
-    * `sudo pacman -S install xclip mpv youtube-dl`
-    * `**pip install ywatch**`
+    * **`sudo pacman -S install xclip mpv youtube-dl`**
+    * **`pip install ywatch`**
 
 
 
