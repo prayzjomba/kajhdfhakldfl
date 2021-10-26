@@ -18,8 +18,8 @@
 
   * ##### Arch users:
 
-		**sudo pacman -S xclip mpv youtube-dl**
-    * **`pip install ywatch`**
+		sudo pacman -S xclip mpv youtube-dl
+		pip install ywatch
 
 
 ## Usage
