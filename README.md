@@ -20,6 +20,10 @@
 
     * **`sudo pacman -S xclip mpv youtube-dl`**
     * **`pip install ywatch`**
+ 
+  * #### Other users:
+    * `install **xclip**, **mpv** and **youtube-dl**`
+    * **`pip install ywatch`**
 
 
 ## Usage
