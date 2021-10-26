@@ -23,9 +23,9 @@
 
 ### Usage
 
-> **yw -h**
+## yw -h
 
-usage: yw [-h] [-b] [-c] [-d] [-f] [-p] [-m] [-r] [-s] [-sk] [-sp] [-v] [-w] [Quality]
+** usage: yw [-h] [-b] [-c] [-d] [-f] [-p] [-m] [-r] [-s] [-sk] [-sp] [-v] [-w] [Quality]
 
 Watch Youtube videos with mpv while saving to disk.
 
@@ -53,7 +53,7 @@ optional arguments:
   -sp, --size-mp4       show mp4 size
   -v, --version         show version
   -w, --watch           play after streaming
-"
+**
 
 ### Screenshots
 ![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/1.png)
