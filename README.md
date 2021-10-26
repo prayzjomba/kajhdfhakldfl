@@ -25,6 +25,7 @@
 ## Usage
 
 ## `>> yw -h`
+**The output/video files will be on ~/Videos/WATCHED**
 
 	usage: yw [-h] [-b] [-c] [-d] [-f] [-p] [-m] [-r] [-s] [-sk] [-sp] [-v] [-w] [Quality]
 
