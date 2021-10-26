@@ -5,7 +5,7 @@
 ### Instalation
 
 * **install using makepkg**
-  * **`git clone https://github.com/prayzjomba/ywatch.git`**
+  * >`git clone https://github.com/prayzjomba/ywatch.git`
   * **`cd ywatch`**
   * **`makepkg -si`**
 
