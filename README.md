@@ -26,8 +26,6 @@
 ### yw -h
 
 	usage: yw [-h] [-b] [-c] [-d] [-f] [-p] [-m] [-r] [-s] [-sk] [-sp] [-v] [-w] [Quality]
-	Watch Youtube videos with mpv while saving to disk.
-	positional arguments:
 
  	Quality
                         1/8 = 1080p | 2 = 240p  | 3 = 360p  | 4 = 480p
@@ -51,7 +49,6 @@
 	  -sp, --size-mp4       show mp4 size
 	  -v, --version         show version
 	  -w, --watch           play after streaming
-**
 
 ### Screenshots
 ![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/1.png)
