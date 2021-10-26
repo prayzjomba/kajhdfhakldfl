@@ -36,20 +36,25 @@ positional arguments:
                         1/8 = 1080p | 2 = 240p  | 3 = 360p  | 4 = 480p
                         7 = 720p    | 9 = 1440p | 0 = 2160p
                         w = worst   | b = best  | a = audio(m4a)
-
                         o = audio(opus)  | O = audio(Best Opus)
-
                         default is 480p
 
 
 optional arguments:
   -h, --help            show this help message and exit
+
   -b, --bar             enable bar
+
   -c, --disable-clear   don't clear the screen
+
   -d, --dir             save to current directory
+
   -f, --fullscreen      enable fullscreen
+
   -p, --playonly        play only, don't save
+
   -m, --mkv             play mkv, default is mp4
+
   -r, --disable-resume  don't resume, start at the beginning
                         (wont work on live videos)
   -s, --size            show size and exit
