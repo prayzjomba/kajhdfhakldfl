@@ -23,7 +23,8 @@
 
 
 ## Usage
-### yw -h
+
+### >> yw 
 
 	usage: yw [-h] [-b] [-c] [-d] [-f] [-p] [-m] [-r] [-s] [-sk] [-sp] [-v] [-w] [Quality]
 
