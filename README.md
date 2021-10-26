@@ -22,6 +22,7 @@
     * **`pip install ywatch`**
 
 ### Screenshots
+![](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/1.png)
 
 
 
