@@ -22,7 +22,7 @@
     * **`pip install ywatch`**
  
   * #### Other users:
-    * `install **xclip**, **mpv** and **youtube-dl**`
+    * **`install xclip, mpv and youtube-dl`**
     * **`pip install ywatch`**
 
 
