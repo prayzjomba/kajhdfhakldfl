@@ -32,10 +32,9 @@ Watch Youtube videos with mpv while saving to disk.
 positional arguments:
 
   Quality
+
                         1/8 = 1080p | 2 = 240p  | 3 = 360p  | 4 = 480p
-
                         7 = 720p    | 9 = 1440p | 0 = 2160p
-
                         w = worst   | b = best  | a = audio(m4a)
 
                         o = audio(opus)  | O = audio(Best Opus)
