@@ -12,7 +12,7 @@
 ![error](https://github.com/prayzjomba/kajhdfhakldfl/blob/main/sc/error.png)
 
 * **install using pip**
-  + check if _$HOME/.local/bin_ is in *PATH* by running **`echo $PATH`**
+  + check if **$HOME/.local/bin** is in *PATH* by running **`echo $PATH`**
   + if not add this line to your **bashrc** **`export PATH=$HOME/.local/bin:$PATH`**
 
   * ##### ubuntu/debian users:
